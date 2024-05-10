@@ -1,1 +1,1 @@
-Book Botter
+Book Botter, guided python excercise
